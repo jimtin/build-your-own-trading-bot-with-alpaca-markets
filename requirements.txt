@@ -1,2 +1,4 @@
 requests
 pandas
+TA-Lib
+pandas-ta
